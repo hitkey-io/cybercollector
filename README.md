@@ -2,7 +2,7 @@
 
 Download videos and media from social networks.
 
-YouTube · Instagram · TikTok · X (Twitter) · Facebook
+YouTube · Instagram · TikTok · X (Twitter) · Facebook · Threads
 
 ## Why
 
@@ -21,6 +21,7 @@ Send a link — get the file. Works in Telegram and MAX.
 - TikTok — videos without watermark
 - X (Twitter) — videos, GIFs
 - Facebook — videos, reels
+- Threads — posts, photos, videos, mixed carousels
 
 ## Feedback
 
