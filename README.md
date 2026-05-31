@@ -2,7 +2,7 @@
 
 Download videos and media from social networks.
 
-YouTube · Instagram · TikTok · X (Twitter) · Facebook · Threads
+YouTube · Instagram · TikTok · X (Twitter) · Facebook · Threads · VK
 
 ## Why
 
@@ -22,6 +22,7 @@ Send a link — get the file. Works in Telegram and MAX.
 - X (Twitter) — videos, GIFs
 - Facebook — videos, reels
 - Threads — posts, photos, videos, mixed carousels
+- VK — videos, clips
 
 ## Feedback
 
